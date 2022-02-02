@@ -10,11 +10,10 @@
   "diagnostic.infoSign": "ℹ",
   "diagnostic.hintSign": "➤",
   "diagnostic.enableHighlightLineNumber": true,
-  "html.enable":true,
+  "html.enable": true,
   "html.validate.scripts": true,
-  "html.format.enable":true,
+  "html.format.enable": true,
 
   "coc.preferences.colorSupport": true,
   "highlight.colors.enable": true
 }
-
